@@ -1,0 +1,38 @@
+﻿# Dependencies
+node_modules/
+
+# Expo / React Native
+.expo/
+dist/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Environment
+.env
+.env.local
+.env.production
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build
+android/
+ios/
+*.apk
+*.aab
+*.ipa
+web-build/
